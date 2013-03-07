@@ -4,8 +4,8 @@
    - Name1: Jonas Kastberg
    - Email1: jkas@itu.dk
    - Name2: Michael Frikke Madsen
-   - Email2: ****@itu.dk
-   - Operating system: Windows 64 bit
+   - Email2: mifr@itu.dk
+   - Operating system: Windows 7, 64 bit
    - Compiler: javac 
    - Text editor / IDE: Notepad++
 
